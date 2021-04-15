@@ -1,0 +1,30 @@
+/*
+Template Design by ZhengDesign.com
+http://www.zhengdesign.com
+Released for free under a Creative Commons Attribution-Share Alike 3.0 Philippines
+*/
+figure{
+margin-top:1em;
+margin-bottom:8em;
+margin-left:10px;
+margin-right:20px;
+}
+#container
+{
+ text-align:left;
+ }
+ figure{
+ display:inline-block;
+ padding:3px;
+ width:381px;
+ height:110px;
+ }
+ figcaption{
+ margin:10px 0 0 0;
+ font-variant:normal;
+ font-family:Arial, Helvetica, sans-serif;
+ font-weight:bold;
+
+ }
+
+ 

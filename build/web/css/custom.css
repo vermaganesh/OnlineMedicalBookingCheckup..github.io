@@ -1,0 +1,35 @@
+body{overflow-x:hidden}.navbar-default{background: #007bff}
+.navbar-default .navbar-nav>li>a{color:#fff;}
+.main-header{padding: 20px}
+.text-align{text-align: right;}
+.logo span{font-size: 25px; text-decoration: none !important;padding-left: 15px}
+.logo a{text-decoration: none;}
+.home-bg{ background-image:url(../images/home.png);
+	background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover; }
+
+    .available-bg{ background-image:url(../images/available.png);
+	background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover; }
+
+    .test-bg{ background-image:url(../images/test.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover; }
+
+    .technician-bg{ background-image:url(../images/technician.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover; }
+    .singupbutton{margin-top: 15px}
+
+
+     .listofequipments-contentarea  .thumbnail>img{ width: 100% !important;  }
+
+     .listofequipments-contentarea  .thumbnail h3{font-size: 15px; font-weight: 600; text-align: center;}
+     .listofequipments-contentarea  .thumbnail{min-height: 337px}
+     .form-320px{width: 320px; margin: auto !important; }
+	 .records-table{max-width:600px; margin:auto}
+	 .records-table h2{ text-align:center; font-size:20px; font-weight:bold}
